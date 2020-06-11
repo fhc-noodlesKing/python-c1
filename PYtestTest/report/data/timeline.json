@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Spuerf",
+    "children" : [ {
+      "name" : "5224-MainThread",
+      "children" : [ {
+        "name" : "test_01_lbt",
+        "uid" : "36454ec7b203fa42",
+        "parentUid" : "44c66344f6b0915065127ce6c3a923ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591778453783,
+          "stop" : 1591778453923,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_logout",
+        "uid" : "de9963aa40d295b2",
+        "parentUid" : "44c66344f6b0915065127ce6c3a923ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591778454073,
+          "stop" : 1591778454124,
+          "duration" : 51
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_login",
+        "uid" : "1a12d50045d9a6a7",
+        "parentUid" : "44c66344f6b0915065127ce6c3a923ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591778453934,
+          "stop" : 1591778454066,
+          "duration" : 132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "44c66344f6b0915065127ce6c3a923ef"
+    } ],
+    "uid" : "d7c67de714af8bd9dbcc8daac9eb5bb9"
+  } ]
+}

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 10 16:40:53 CST 2020","Wed Jun 10 16:40:53 CST 2020","140","case","test_01_index","","","","test_01_lbt",""
+"passed","Wed Jun 10 16:40:54 CST 2020","Wed Jun 10 16:40:54 CST 2020","51","case","test_03_logout","","","","test_01_logout",""
+"passed","Wed Jun 10 16:40:53 CST 2020","Wed Jun 10 16:40:54 CST 2020","132","case","test_02_login","","","","test_01_login","
+        登录成功的测试用例 
+    "

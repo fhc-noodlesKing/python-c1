@@ -1,4 +1,4 @@
-from dbtools import commit
+from dbtools import chaxun, commit
 
 
 # username = input("请输入账号：")
@@ -21,7 +21,7 @@ sql = 'INSERT into t_admin values(NULL, "{}", "{}", NULL, NULL, NULL, NULL, NULL
 res = commit(sql)
 if res == True:
     sql = 'select * from t_admin where username="{}" and password="{}"'.format(username,password)
-   # res = select(sql)
+    res = chaxun(sql)
     if len(res) != 0:
         print("注册成功")
 else:
